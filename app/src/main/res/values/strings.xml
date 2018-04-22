@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scarne\'sDice</string>
+    <string name="yourScore">YourScore</string>
+    <string name="YourScore">0</string>
+    <string name="Computer_Score">Computer Score</string>
+    <string name="Computer_Score_Card">0</string>
+    <string name="_0">0</string>
+    <string name="DiceScore">1</string>
+
+</resources>
